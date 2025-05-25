@@ -1,0 +1,8 @@
+cat > LICENSE <<EOF
+MIT License
+
+Copyright (c) 2024 YOUR_NAME
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+# (truncated for brevity – you can copy full MIT license from: https://choosealicense.com/licenses/mit/)
+EOF
